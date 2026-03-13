@@ -166,10 +166,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-        &kp LS(LG(DE_S))  &kp DE_COMMA  &kp UP         &kp DE_DOT  &kp DE_LEFT_BRACE          &kp DE_RIGHT_BRACE        &kp DE_N7  &kp DE_N8  &kp DE_N9  &mt DE_ASTRK DE_PLUS
-        &kp LC(DE_A)      &kp LEFT      &kp DOWN       &kp RIGHT   &kp DE_LEFT_BRACKET        &kp DE_RIGHT_BRACKET      &kp DE_N4  &kp DE_N5  &kp DE_N6  &kp DE_SLASH
-&trans  &kp LEFT_WIN      &kp HOME      &kp BACKSPACE  &kp END     &kp DE_LEFT_PARENTHESIS    &kp DE_RIGHT_PARENTHESIS  &kp N1     &kp DE_N2  &kp DE_N3  &trans                &trans
-                                        &kp LEFT_ALT   &trans      &trans                     &trans                    &kp DE_N0  &trans
+        &kp LG(DE_S)  &kp DE_COMMA  &kp UP         &kp DE_DOT  &kp DE_LEFT_BRACE          &kp DE_RIGHT_BRACE        &kp DE_N7  &kp DE_N8  &kp DE_N9  &mt DE_ASTRK DE_PLUS
+        &kp LC(DE_A)  &kp LEFT      &kp DOWN       &kp RIGHT   &kp DE_LEFT_BRACKET        &kp DE_RIGHT_BRACKET      &kp DE_N4  &kp DE_N5  &kp DE_N6  &kp DE_SLASH
+&trans  &kp LEFT_WIN  &kp HOME      &kp BACKSPACE  &kp END     &kp DE_LEFT_PARENTHESIS    &kp DE_RIGHT_PARENTHESIS  &kp N1     &kp DE_N2  &kp DE_N3  &trans                &trans
+                                    &kp LEFT_ALT   &trans      &trans                     &trans                    &kp DE_N0  &trans
             >;
         };
 
