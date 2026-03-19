@@ -61,6 +61,16 @@
             bindings = <&to 4>;
             key-positions = <24 23 33>;
         };
+
+        enter_variant {
+            bindings = <&none>;
+            key-positions = <28 29>;
+        };
+
+        esc_right {
+            bindings = <&none>;
+            key-positions = <8 9>;
+        };
     };
 
     macros {
